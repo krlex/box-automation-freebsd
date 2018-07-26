@@ -1,3 +1,4 @@
 ---
 video_packages:
   - name: vlc
+  - name: mpv
