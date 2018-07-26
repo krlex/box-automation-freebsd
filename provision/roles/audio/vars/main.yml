@@ -4,3 +4,8 @@ audio_packages:
   - name: normalize
   - name: sox
   - name: virtual_oss_ctl
+  - name: swhplugins
+  - name: swh-lv2 
+  - name: calf-lv2 
+  - name: invada-studio-plugins-lv2
+  - name: carla
