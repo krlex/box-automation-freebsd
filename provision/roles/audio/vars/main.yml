@@ -2,7 +2,6 @@
 audio_packages:
   - name: audacious
   - name: ardour5
-  - name: carla
   - name: invada-studio-plugins-lv2
   - name: calf-lv2 
   - name: normalize
