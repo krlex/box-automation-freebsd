@@ -1,0 +1,8 @@
+---
+
+- name: git repos
+  with_items: "{{ git_repos }}"
+  git:
+    repo: "{{ item.repo }}"
+    dest: "~{{ user }}/repos/{{ item.dest }}"
+    update: no

@@ -1,0 +1,10 @@
+---
+user_directories:
+  - path: Files
+  - path: Music
+  - path: repos
+
+user_config:
+  - name: ".gnupg"
+  - name: ".netrc"
+  - name: ".ssh"

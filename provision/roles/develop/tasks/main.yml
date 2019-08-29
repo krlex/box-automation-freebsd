@@ -2,5 +2,5 @@
 - name: install develop packages
   become: yes
   with_items: "{{ develop_packages }}"
-  pkgng:
+  package:
     name: "{{ item.name }}"
