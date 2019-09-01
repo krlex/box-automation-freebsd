@@ -20,4 +20,4 @@ git_repos:
     dest: "mail"
 
   - repo: "https://github.com/cbsd/reggae"
-    dest: "cbsd.io"
+    dest: "reggae"
